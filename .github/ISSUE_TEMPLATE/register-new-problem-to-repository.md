@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Register new problem to repository
 about: Describe this issue template's purpose here.
 title: ''
 labels: problem
